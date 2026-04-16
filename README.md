@@ -1,5 +1,17 @@
 # 3D-Game-Project
-- Name of game
+- Name of game: Storm the Castle
 - Names of group members: Skylar Pay, Paris Cabatit, & Matthew Tabios
 - Description of current target for the game (does not need to be final)
+  - Knight character breaking into castle
+  - Complete different tasks on the way to castle
+    - Fight guard
+    - Build boat to cross moat
+    - Search for sword
+    - etc.
+  - Each task is a different level until you reach the final one (breaking in)
+  - Final level must beat final boss (dragon guard)
 - General goals for each person (such as art/animation/level design)
+  - Matt: System design (fight system, crafting system, movement system, etc.)
+  - Paris: UI design (start screen, control page, etc.)
+  - Skylar: Scene design (art assets, etc.)
+  - All: Level design
