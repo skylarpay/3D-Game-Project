@@ -143,6 +143,7 @@ MonoBehaviour:
   jumpHeight: 1.2
   cam: {fileID: 1788623315372294392}
   sensitivity: 15
+  sword: {fileID: 1037833777714491778}
   attackDistance: 3
   attackDelay: 0.4
   attackSpeed: 1
